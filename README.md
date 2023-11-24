@@ -24,10 +24,11 @@ return [Summary](#summary)
 
 ## container set up
 
-ubuntu:22.04
-Install terraform v1.4.0
-Install AWS-cli v2
-Install terraformer v0.8.24
+> ubuntu:22.04 <br>
+> Install terraform v1.4.0 <br>
+> Install AWS-cli v2 <br>
+> Install terraformer v0.8.24 <br>
+
 
 ### check version
 ```

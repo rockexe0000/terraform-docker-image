@@ -54,6 +54,8 @@ data/
 
 .env
 
+docker/credentials/aws/*
+docker/aws/*
 
 !*.gitkeep
 
